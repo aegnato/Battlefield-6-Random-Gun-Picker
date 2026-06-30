@@ -1,4 +1,4 @@
-Random Gun Selector for BF6
+Simple Random Gun Selector for BF6
 This script randomly selects a gun from the Battlefield 6 arsenal and displays it to the user.
 It can be used for fun or to challenge players to try out new weapons.
 
